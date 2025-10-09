@@ -34,3 +34,17 @@ Taylor’s Calculator is a simple command-line program that can:
 3. In your terminal or Git Bash, run:
    ```bash
    python calculator.py
+   
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+major updates in the next version, this will take a while!!!!!!!
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~Q&A:::
+Q: Why the long titel(s)?
+A: I have horable, anxiaty and just the idea of not saveing 1 change no matter how small it seems scares to hope out of me.
+
+Q: Why computers?
+A: Unlike humans, it doesn't call me names it just Syntext Error or some other. If it's wrong it's wrong, there is something beutiful about that. Right or wrong, true or false, like a bollean expression.
+
+Q: Why not quit?
+A: As much as I'd love too, I raized myself better than that.
