@@ -33,7 +33,9 @@ Taylor’s Calculator is a simple command-line program that can:
 2. Download or clone this repository.  
 3. In your terminal or Git Bash, run:
    ```bash
-   python calculator.py
+   Taylor'sCalculatorVersion_000000.31.py
+
+Or later, yes the nameing will change soon.
    
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
